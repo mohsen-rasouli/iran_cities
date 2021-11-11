@@ -32,3 +32,7 @@ const iranCities = {
     'hamedan': 'همدان',
     'yazd': 'یزد',
 }
+
+const iranCitiesPersian = {
+    
+}
