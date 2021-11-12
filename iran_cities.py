@@ -1141,3 +1141,40 @@ yazdCities = (
     'هرات ـ خاتم',
     'يزد',
 )
+
+# Dictionary state and cities of iran
+statesAndCitiesOfIran = {
+	'آذربايجان شرقي': azarbayjanSharqiCities,
+	'آذربايجان غربي': azarbayjanGharbiCities,
+	'اردبيل': ardabilCities,
+	'اصفهان': esfahanCities,
+	'البرز': alborzCities,
+	'ايلام': ilamCities,
+	'بوشهر': bushehrCities,
+	'تهران': tehranCities,
+	'چهارمحال و بختياري': chaharmahalCities,
+	'خراسان جنوبي': khorasanJonobiCities,
+	'خراسان رضوي': khorasanRazaviCities,
+	'خراسان شمالي': khorasanShomaliCities,
+	'خوزستان': khouzestanCities,
+	'زنجان': zanjanCities,
+	'سمنان': semnanCities,
+	'سيستان و بلوچستان': sistanBaluchestanCities,
+	'فارس': farsCities,
+	'قزوين': qazvinCities,
+	'قم': qomCities,
+	'كردستان': kordestanCities,
+	'كرمان': kermanCities,
+	'كرمانشاه': kermanshahCities,
+	'كهكيلويه و بويراحمد': kohgiluyehBoyerahmadCities,
+	'گلستان': golestanCities,
+	'گيلان': gilanCities,
+	'لرستان': lorestanCities,
+	'مازندران': mazandaranCities,
+	'مركزي': markaziCities,
+	'هرمزگان': hormozganCities,
+	'همدان': hamedanCities,
+	'یزد': yazdCities
+}
+
+print(len(statesAndCitiesOfIran))
