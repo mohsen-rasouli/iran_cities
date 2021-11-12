@@ -1176,5 +1176,3 @@ statesAndCitiesOfIran = {
 	'همدان': hamedanCities,
 	'یزد': yazdCities
 }
-
-print(len(statesAndCitiesOfIran))
